@@ -1,3 +1,32 @@
-.mainheading{
-    display: inline-block;
+body{
+background-color:#E1D7CD;
+}
+.full-page{
+    background-color: rgb(229, 224, 219);
+    margin-bottom: 1000px;
+
+}
+h1{
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    margin-top: 50px;
+  font-family: "Quintessential", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+h2{
+    display: flex;
+  justify-content: center;
+    text-align: center;
+    margin-top: 10px;
+}
+.links{
+    background-color: #E1D7CD;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 20px;
 }
