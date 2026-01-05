@@ -25,11 +25,24 @@ h2{
     display: flex;
   justify-content: center;
     text-align: center;
-    margin-top: 10px;
     size: 50px;
+    font-family: "Quintessential", serif;
+  font-weight: 600;
+  font-style: normal;
+  border-radius: 1px;
 }
 
-
+h3{
+  position: relative;
+    display: inline-block;
+    display: flex;
+   justify-content: center;
+    margin-top: 10px;
+  font-family: "Quintessential", serif;
+  font-weight: 550;
+  font-style: normal;
+  size: 200px;
+}
 
 p{
     justify-content: center;
